@@ -22,7 +22,7 @@ This project is designed for one to practice the Git/Github workflow here at Lam
 
 Link to my code pen https://codepen.io/SonicBliss/pen/eYZavbm?editors=1100
 
-## Questions and their answers:
+ Questions and their answers:
 <!-- Questions to Submit in today's file first-lastname.txt --> 
 <!--
 Copy the questions below into the first-lastname.txt file on your github repo - answer each question and then push your changes. 
